@@ -1,0 +1,46 @@
+---
+h1: "Кузовной ремонт. Скидка до 50%"
+title: "Тайтл акции"
+caption: "Кузовной ремонт. Скидка до 50%"
+breadcrumb: "Кузовной ремонт. Скидка до 50%"
+draft: false # необязательно - флаг для исключения из списка акции
+pubDate: "{{year}}-{{month}}-01"
+toDate: true # необязательно - дата окончания акции в формате YYYY-MM-DD или true для показа последнего дня месяца
+image: "https://cdn.alexsab.ru/specials/toyota/orenburg/kuzovnoy-remont-skidka-do-50/mobile.webp"
+description: "Кузовной ремонт&amp;nbsp; &amp;mdash; это не просто восстановление внешнего вида автомобиля, а залог его безопасности и долговечности.&amp;nbsp; Выбор кузовного ремонта в Тойота Центр Оренбург&amp;nbsp;&amp;mdash; это уверенность в том, что ваш автомобиль будет выглядеть и функционировать как новый, восстановленный с любовью и профессионализмом. &amp;nbsp; Мы заботится о своих клиентах, предоставляя скидку на качественные работы: - до 50 % на оказание услуг покрасочно-ремонтного цеха; - до 15 % на стоимость запасных частей.&amp;nbsp; &amp;nbsp; Окраска одного элемента от 18 500 рублей* &amp;nbsp; *Подробности у сервисного консультанта кузовного цеха."
+---
+import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import FeedbackForm from '@/components/FeedbackForm/FeedbackForm.astro';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common } = settings;
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+
+export const dateFrom = '01.07.2024';
+export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
+export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
+export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
+
+<picture>
+	<source media="(min-width: 942px)" srcset="https://cdn.alexsab.ru/specials/toyota/orenburg/kuzovnoy-remont-skidka-do-50/desktop.webp" />
+	<img src="https://cdn.alexsab.ru/specials/toyota/orenburg/kuzovnoy-remont-skidka-do-50/mobile.webp" class="w-full mb-10" width="1496" alt="Фестиваль продаж Jetour" />
+</picture>
+
+Кузовной ремонт  — это не просто восстановление внешнего вида автомобиля, а залог его безопасности и долговечности. 
+
+Выбор кузовного ремонта в Тойота Центр Оренбург — это уверенность в том, что ваш автомобиль будет выглядеть и функционировать как новый, восстановленный с любовью и профессионализмом.
+
+Мы заботится о своих клиентах, предоставляя скидку на качественные работы:
+
+- до 50 % на оказание услуг покрасочно-ремонтного цеха;
+
+- до 15 % на стоимость запасных частей. 
+
+Окраска одного элемента от 18 500 рублей*
+
+*Подробности у сервисного консультанта кузовного цеха.
+
+Тел.: <a href={`${phoneFormat(phone_common)}`}>{phone_common}</a>
+
+<FeedbackForm title="Получить консультацию" dataFormName="Кузовной ремонт. Скидка до 50%" />
