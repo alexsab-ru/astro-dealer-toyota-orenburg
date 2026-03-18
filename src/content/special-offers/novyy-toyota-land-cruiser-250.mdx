@@ -12,6 +12,7 @@ description: "АБСОЛЮТНО НОВЫЙ TOYOTA LAND CRUISER 250 В НАЛИ�
 import Button from '@/components/Button/Button.astro';
 import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
 import FeedbackForm from '@/components/FeedbackForm/FeedbackForm.astro';
+import Timer from '@/components/Timer/Timer.astro';
 import settings from '@/data/settings.json';
 export const { site_name, phone_common } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
@@ -26,6 +27,14 @@ export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
 	<source media="(min-width: 942px)" srcset="https://cdn.alexsab.ru/specials/toyota/orenburg/novyy-toyota-land-cruiser-250/desktop.webp" />
 	<img src="https://cdn.alexsab.ru/specials/toyota/orenburg/novyy-toyota-land-cruiser-250/mobile.webp" class="w-full mb-10" width="1496" alt="Новый Toyota Land Cruiser 250" />
 </picture>
+
+<Timer 
+    title='До конца акции осталось'
+    subtitle='' 
+    endtime={`${YEAR}-12-${LAST_DAY}T23:59:59+04:00`}
+    btnName='Зафиксировать цену'
+    show={true}
+/>
 
 АБСОЛЮТНО НОВЫЙ TOYOTA LAND CRUISER 250 В НАЛИЧИИ В ТОЙОТА ЦЕНТР ОРЕНБУРГ.
 
