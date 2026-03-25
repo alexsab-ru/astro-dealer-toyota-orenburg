@@ -164,12 +164,6 @@ export default defineConfig({
 		icon(),
 		react(),
 	],
-	redirects: {
-		"/special-offers-list": "/special-offers",
-		"/special-offers-list/kuzovnoy-remont-skidka-do-50": "/special-offers/kuzovnoy-remont-skidka-do-50",
-		"/special-offers-list/novyy-toyota-land-cruiser-250": "/special-offers/novyy-toyota-land-cruiser-250",
-		"/special-offers-list/absolyutno-novyy-lexus-rx": "special-offers/absolyutno-novyy-lexus-rx"
-	},
 	vite: {
 		plugins: [
 			yaml(),
