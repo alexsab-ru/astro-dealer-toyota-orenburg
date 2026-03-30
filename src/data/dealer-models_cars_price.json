@@ -19,6 +19,12 @@
   },
   {
     "brand": "Toyota",
+    "model": "Hilux",
+    "price": 7300000,
+    "benefit": 0
+  },
+  {
+    "brand": "Toyota",
     "model": "Land Cruiser Prado",
     "price": 13300000,
     "benefit": 500000
