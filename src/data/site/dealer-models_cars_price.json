@@ -16,11 +16,5 @@
     "model": "RAV4",
     "price": 4300000,
     "benefit": 200000
-  },
-  {
-    "brand": "Toyota",
-    "model": "Wildlander",
-    "price": 4550000,
-    "benefit": 200000
   }
 ]
