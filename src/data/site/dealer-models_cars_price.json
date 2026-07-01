@@ -2,8 +2,8 @@
   {
     "brand": "Toyota",
     "model": "Highlander",
-    "price": 5400000,
-    "benefit": 450000
+    "price": 5200000,
+    "benefit": 400000
   },
   {
     "brand": "Toyota",
@@ -14,7 +14,7 @@
   {
     "brand": "Toyota",
     "model": "RAV4",
-    "price": 4750000,
-    "benefit": 200000
+    "price": 4600000,
+    "benefit": 350000
   }
 ]
