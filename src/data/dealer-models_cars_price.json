@@ -1,11 +1,5 @@
 [
   {
-    "brand": "Lexus",
-    "model": "GX",
-    "price": 12100000,
-    "benefit": 400000
-  },
-  {
     "brand": "Toyota",
     "model": "Highlander",
     "price": 5450000,
