@@ -2,19 +2,19 @@
   {
     "brand": "Toyota",
     "model": "Highlander",
-    "price": 5450000,
+    "price": 5200000,
     "benefit": 400000
   },
   {
     "brand": "Toyota",
     "model": "Land Cruiser Prado",
-    "price": 12950000,
-    "benefit": 500000
+    "price": 11890000,
+    "benefit": 0
   },
   {
     "brand": "Toyota",
     "model": "RAV4",
-    "price": 4250000,
+    "price": 4300000,
     "benefit": 350000
   }
 ]
