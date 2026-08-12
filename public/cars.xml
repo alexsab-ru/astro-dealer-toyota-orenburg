@@ -1,42 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<data><cars><car><availability>в наличии</availability><body_type>Внедорожник</body_type><color>Белый</color><complectation_name>VX-L + Панорама</complectation_name><credit_discount>0</credit_discount><description>Тойота / Lexus Оренбург — единственный официальный дилер по продаже автомобилей марки TOYOTA и LEXUS в Оренбурге и Оренбургской области. Более 20 лет на рынке. Нам доверяют тысячи клиентов.
-	
- Наш адрес: Оренбург, Загородное шоссе, зд. 13
-
-Услуги сервисного центра:
-⚡  сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ Aвтомoбиль полнoстью РАСТАМОЖЕН
-⚡ Уплачен ПОЛНЫЙ утилизационный сбор
-⚡ ЭПТС действующий (ГОТОВ)
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-   Позвоните прямо сейчас и получите индивидуальные условия приобретения на НОВЫЙ ОБНОВЛЕННЫЙ TOYOTA Land Cruiser Prado 250, комплектация ЛЮКС+, с  гарантией качества до 3 лет или до 100 000 км  ❗
-
-Сборка Япония.
-
-Цена в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Land Cruiser Prado, 250 Series</folder_id><images><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/1/full.webp?v=0aef4edf571e</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/2/full.webp?v=7ff6d23fccbe</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/3/full.webp?v=b01cce7b9ed7</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/4/full.webp?v=6dbdb835e7e1</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/5/full.webp?v=940458bb4db0</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/6/full.webp?v=0ad034b6dc8d</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/7/full.webp?v=0dd37561656b</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/8/full.webp?v=8b5a10b5ebba</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/9/full.webp?v=805af1c61f4e</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/10/full.webp?v=e25d28bef8a9</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/11/full.webp?v=0d11f0c10f4a</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/12/full.webp?v=295fc9e0bae3</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/13/full.webp?v=3df16b3845bf</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/14/full.webp?v=b10a358da930</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/15/full.webp?v=3d60cc53f46d</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/16/full.webp?v=d4d17a5b88ab</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/17/full.webp?v=72f7528531ed</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/18/full.webp?v=a27169aa1885</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/19/full.webp?v=edc62ee4df8a</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/20/full.webp?v=0ba9d1f71ad2</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/21/full.webp?v=178bb887016e</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/22/full.webp?v=c4d8b96c1e83</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/23/full.webp?v=15630c2a9a08</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/24/full.webp?v=f232909ebc83</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/25/full.webp?v=d7b7d1f98e82</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/26/full.webp?v=9ffff39e31ef</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/27/full.webp?v=27e0f264fd9d</image></images><insurance_discount>0</insurance_discount><mark_id>Toyota</mark_id><max_discount>0</max_discount><modification_id>2.8d AT (204 л.с.) 4WD</modification_id><price>11890000</price><tradein_discount>0</tradein_discount><vin>JTEARCAJ7SK043093</vin><wheel>левый</wheel><year>2025</year><color_rus>Белый</color_rus><color_eng>ice-cap</color_eng><priceWithDiscount>11890000</priceWithDiscount><sale_price>11890000</sale_price><currency>RUR</currency><url>https://cars.toyotaorenburg.ru/cars/toyota-land-cruiser-prado-250-series-28d-at-204-hp-4wd-vx-l--plus-panorama-ice-cap-2025/</url><model_name>Land Cruiser Prado</model_name><model_id>land-cruiser-prado</model_id><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ7SK043093/1/full.webp?v=0aef4edf571e</image></car><car><availability>в наличии</availability><body_type>Внедорожник</body_type><color>БЕЛЫЙ</color><complectation_name>Luxury</complectation_name><credit_discount>150000</credit_discount><description>Тойота / Lexus Оренбург — единственный официальный дилер по продаже автомобилей марки TOYOTA и LEXUS в Оренбурге и Оренбургской области. Более 20 лет на рынке. Нам доверяют тысячи клиентов.
+<data><cars><car><availability>в наличии</availability><body_type>Внедорожник</body_type><color>БЕЛЫЙ</color><complectation_name>Luxury</complectation_name><credit_discount>150000</credit_discount><description>Тойота / Lexus Оренбург — единственный официальный дилер по продаже автомобилей марки TOYOTA и LEXUS в Оренбурге и Оренбургской области. Более 20 лет на рынке. Нам доверяют тысячи клиентов.
 	
  Наш адрес: Оренбург, Загородное шоссе, зд. 13
 
