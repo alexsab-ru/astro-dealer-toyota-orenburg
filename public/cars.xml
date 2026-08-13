@@ -1,40 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<data><cars><car><availability>в наличии</availability><body_type>Внедорожник</body_type><color>БЕЛЫЙ</color><complectation_name>Luxury</complectation_name><credit_discount>150000</credit_discount><description>Тойота / Lexus Оренбург — единственный официальный дилер по продаже автомобилей марки TOYOTA и LEXUS в Оренбурге и Оренбургской области. Более 20 лет на рынке. Нам доверяют тысячи клиентов.
-	
- Наш адрес: Оренбург, Загородное шоссе, зд. 13
-
-Услуги сервисного центра:
-⚡  сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ Aвтомoбиль полнoстью РАСТАМОЖЕН
-⚡ Уплачен ПОЛНЫЙ утилизационный сбор
-⚡ ЭПТС действующий (ГОТОВ)
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-   Позвоните прямо сейчас и получите индивидуальные условия приобретения на  AБСОЛЮТНО НОВЫЙ кузoв TOYOTA RAV4, 6-е пoколeние, в комплектации Люкс, с  гарантией качества до 3 лет или до 100 000 км  ❗
-
-Цена в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>RAV4, VI (XA60)</folder_id><images><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF0T3005380/1/full.webp?v=bc70541a0658</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF0T3005380/2/full.webp?v=ae27f43e10bb</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF0T3005380/3/full.webp?v=46fca57a718b</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF0T3005380/4/full.webp?v=fe9d96f78cde</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF0T3005380/5/full.webp?v=b7032a4c9ff5</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF0T3005380/6/full.webp?v=22c235c6f996</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF0T3005380/7/full.webp?v=81bcf4d3e192</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF0T3005380/8/full.webp?v=454c5ecd8c5b</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF0T3005380/9/full.webp?v=7bd1ae39ba15</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF0T3005380/10/full.webp?v=f0673b56132a</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF0T3005380/11/full.webp?v=f8487ee56dae</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF0T3005380/12/full.webp?v=5491de47ee7d</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF0T3005380/13/full.webp?v=1d4e9be2aed1</image><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF0T3005380/14/full.webp?v=6a30e824f19e</image></images><insurance_discount>0</insurance_discount><mark_id>Toyota</mark_id><max_discount>350000</max_discount><modification_id>2.0 CVT (171 л.с.) 4WD</modification_id><price>4650000</price><tradein_discount>200000</tradein_discount><vin>LFMJBFBF0T3005380</vin><wheel>левый</wheel><year>2026</year><color_rus>Белый</color_rus><color_eng>white</color_eng><priceWithDiscount>4300000</priceWithDiscount><sale_price>4300000</sale_price><currency>RUR</currency><url>https://cars.toyotaorenburg.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2026/</url><model_name>RAV4</model_name><model_id>rav4</model_id><image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF0T3005380/1/full.webp?v=bc70541a0658</image></car><car><availability>в наличии</availability><body_type>Внедорожник</body_type><color>БЕЛЫЙ</color><complectation_name>Luxury</complectation_name><credit_discount>0</credit_discount><description>Тойота / Lexus Оренбург — единственный официальный дилер по продаже автомобилей марки TOYOTA и LEXUS в Оренбурге и Оренбургской области. Более 20 лет на рынке. Нам доверяют тысячи клиентов.
+<data><cars><car><availability>в наличии</availability><body_type>Внедорожник</body_type><color>БЕЛЫЙ</color><complectation_name>Luxury</complectation_name><credit_discount>0</credit_discount><description>Тойота / Lexus Оренбург — единственный официальный дилер по продаже автомобилей марки TOYOTA и LEXUS в Оренбурге и Оренбургской области. Более 20 лет на рынке. Нам доверяют тысячи клиентов.
 	
  Наш адрес: Оренбург, Загородное шоссе, зд. 13
 
