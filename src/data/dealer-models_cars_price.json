@@ -1,6 +1,12 @@
 [
   {
     "brand": "Lexus",
+    "model": "GX",
+    "price": 12100000,
+    "benefit": 400000
+  },
+  {
+    "brand": "Lexus",
     "model": "RX 350",
     "price": 8190000,
     "benefit": 300000
