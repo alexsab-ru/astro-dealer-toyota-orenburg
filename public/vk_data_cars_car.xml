@@ -1,0 +1,342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <cars>
+    <car>
+      <unique_id>JTEARCAJ0SK051259</unique_id>
+      <url>https://cars.toyotaorenburg.ru/cars/toyota-land-cruiser-prado-250-series-28d-at-204-hp-4wd-vx-l-ice-cap-2026/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>Land Cruiser Prado, 250 Series</folder_id>
+      <year>2026</year>
+      <vin>JTEARCAJ0SK051259</vin>
+      <price>12490000</price>
+      <sale_price>12190000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>300000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota Land Cruiser Prado, 250 Series, VX-L, 2.8d AT (204 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/0/full.webp?v=d5d795a533b3</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/1/full.webp?v=fab3899b424d</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/2/full.webp?v=762307d85281</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/3/full.webp?v=f5be6f2b143e</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/4/full.webp?v=40a36ad308d6</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/5/full.webp?v=4e9130555bec</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/6/full.webp?v=fedee65fbf75</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/7/full.webp?v=b1dac221e22f</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/8/full.webp?v=1d0c16bc867d</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/9/full.webp?v=73c2f0b3df99</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/10/full.webp?v=c09fea25a3b7</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/11/full.webp?v=0ff2aa8feaf4</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/12/full.webp?v=4de53498e731</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/13/full.webp?v=e9c07358e35c</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/14/full.webp?v=fe08e1e22790</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/15/full.webp?v=c7b3c4a29fc0</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/16/full.webp?v=5d1c7fc269d3</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/17/full.webp?v=d0ce0b0680e4</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/18/full.webp?v=58c101166ac2</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/19/full.webp?v=c73146329626</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/20/full.webp?v=dabfe59fadc8</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/21/full.webp?v=ee28cefb8aa4</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/22/full.webp?v=a9d9357a9629</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/23/full.webp?v=9e53b34056a4</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/24/full.webp?v=6eed00ff72ff</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/25/full.webp?v=2bb8eb189fe2</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/26/full.webp?v=a2b478d88361</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/27/full.webp?v=3fff186e3a86</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/28/full.webp?v=5f9725fe140e</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/29/full.webp?v=f3518b7d7e2a</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/30/full.webp?v=4cd1ab49fbf0</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/31/full.webp?v=7ad120120fa1</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/32/full.webp?v=302c78ca322a</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/33/full.webp?v=08dd2998358e</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/34/full.webp?v=af8f1246b3a9</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/35/full.webp?v=6312b18d0b9d</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/36/full.webp?v=0053a165188f</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/37/full.webp?v=614d9e6c9fbc</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/38/full.webp?v=e55cd1b8a2a6</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/39/full.webp?v=c2e9dab5e036</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/40/full.webp?v=09e4c8e1be08</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>JTEARCAJ6TK056581</unique_id>
+      <url>https://cars.toyotaorenburg.ru/cars/toyota-land-cruiser-prado-250-series-28d-at-204-hp-4wd-vx-l-black-2026/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>Land Cruiser Prado, 250 Series</folder_id>
+      <year>2026</year>
+      <vin>JTEARCAJ6TK056581</vin>
+      <price>12490000</price>
+      <sale_price>12190000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>300000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota Land Cruiser Prado, 250 Series, VX-L, 2.8d AT (204 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ6TK056581/0/full.webp?v=54911e1b0b2c</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ6TK056581/1/full.webp?v=901933d6c587</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ6TK056581/2/full.webp?v=3b05b8b9ee14</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ6TK056581/3/full.webp?v=4d6a055b6822</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ6TK056581/4/full.webp?v=708ada214314</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ6TK056581/5/full.webp?v=c735fbb6f57f</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ6TK056581/6/full.webp?v=3df44dbe2d9f</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ6TK056581/7/full.webp?v=5e42d302a0bf</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ6TK056581/8/full.webp?v=4f7b057f761f</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ6TK056581/9/full.webp?v=08aeaf2fa174</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>JTJCPMJA2T2026564</unique_id>
+      <url>https://cars.toyotaorenburg.ru/cars/lexus-rx-v-300-20-at-248-hp-4wd-enjoy-eminent-white-pearl-2026/</url>
+      <mark_id>Lexus</mark_id>
+      <folder_id>RX, V</folder_id>
+      <year>2026</year>
+      <vin>JTJCPMJA2T2026564</vin>
+      <price>8490000</price>
+      <sale_price>8090000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>400000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Lexus RX, V, Enjoy, 300 2.0 AT (248 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/0/full.webp?v=9595fb941b69</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/1/full.webp?v=f2551342e603</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/2/full.webp?v=5556fa8483bb</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/3/full.webp?v=5ba86234b957</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/4/full.webp?v=d027b4c1a3e7</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/5/full.webp?v=e958f53d6410</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/6/full.webp?v=65a7ed4cb8e3</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/7/full.webp?v=fad49eb77f68</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/8/full.webp?v=719e6c120c84</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/9/full.webp?v=732cb59545e1</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/10/full.webp?v=22e03322a589</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/11/full.webp?v=c20876025821</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/12/full.webp?v=48fe02c43a52</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/13/full.webp?v=49e449b92935</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/14/full.webp?v=54f930ee4ed2</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/15/full.webp?v=1f45960063e8</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/16/full.webp?v=89dd6e03c075</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/17/full.webp?v=8804eea7a820</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/18/full.webp?v=10a75a4a58d3</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/19/full.webp?v=64b6359adc6a</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/20/full.webp?v=436c656e88f0</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/21/full.webp?v=0f4dc8318c1f</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/22/full.webp?v=764f0089add9</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/23/full.webp?v=bbc971d63d8a</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/24/full.webp?v=1a633f71122f</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/25/full.webp?v=7fbe2d7302ac</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/26/full.webp?v=6bbd112b2603</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/27/full.webp?v=2abe145de659</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/28/full.webp?v=010dca0453c3</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/29/full.webp?v=025cf668ffaf</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/30/full.webp?v=99fc6f0ac837</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/31/full.webp?v=3206113dd695</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/32/full.webp?v=e46657718a2f</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/33/full.webp?v=024fb4a223bb</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/34/full.webp?v=5c067703dd65</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/35/full.webp?v=8e02106011b5</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/36/full.webp?v=2a0b522b3dae</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/37/full.webp?v=6140aa0ddb30</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>JTJCPMJA6T2030178</unique_id>
+      <url>https://cars.toyotaorenburg.ru/cars/lexus-rx-v-300-20-at-248-hp-4wd-enjoy-iridium-2026/</url>
+      <mark_id>Lexus</mark_id>
+      <folder_id>RX, V</folder_id>
+      <year>2026</year>
+      <vin>JTJCPMJA6T2030178</vin>
+      <price>8490000</price>
+      <sale_price>8090000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>400000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Lexus RX, V, Enjoy, 300 2.0 AT (248 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/0/full.webp?v=5630bfa7dad4</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/1/full.webp?v=eb53315dd610</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/2/full.webp?v=82d9a29ac664</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/3/full.webp?v=215d243382e5</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/4/full.webp?v=0e31369eee46</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/5/full.webp?v=2ba6249a4734</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/6/full.webp?v=93425ba90711</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/7/full.webp?v=3455ee5f8deb</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/8/full.webp?v=d0a3443442de</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/9/full.webp?v=8e33ca8cb9c3</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/10/full.webp?v=d1ec3b946375</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/11/full.webp?v=6518473e2a84</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/12/full.webp?v=aa53e15edad1</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/13/full.webp?v=7ef7a2aaa7a1</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/14/full.webp?v=17796719694a</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>JTJCPMJA7T2026981</unique_id>
+      <url>https://cars.toyotaorenburg.ru/cars/lexus-rx-v-300-20-at-248-hp-4wd-enjoy-eminent-white-pearl-2026/</url>
+      <mark_id>Lexus</mark_id>
+      <folder_id>RX, V</folder_id>
+      <year>2026</year>
+      <vin>JTJCPMJA7T2026981</vin>
+      <price>8490000</price>
+      <sale_price>8090000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>400000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Lexus RX, V, Enjoy, 300 2.0 AT (248 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/0/full.webp?v=fe3c76c99118</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/1/full.webp?v=ad1a4434127d</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/2/full.webp?v=b7c63b5fe2a5</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/3/full.webp?v=27bc94315dee</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/4/full.webp?v=5aa33af3dcd8</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/5/full.webp?v=ce60d4bedc4d</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/6/full.webp?v=77e4c7857043</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/7/full.webp?v=6965386d9d4a</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/8/full.webp?v=ce2979d77ce2</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/9/full.webp?v=7e29db5a1568</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/10/full.webp?v=285a98b21e34</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/11/full.webp?v=799d7a9dde76</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/12/full.webp?v=6feb6f824d68</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/13/full.webp?v=7c5e8f629e38</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/14/full.webp?v=da231f8c8ca7</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>JTJJM5FX305323288</unique_id>
+      <url>https://cars.toyotaorenburg.ru/cars/lexus-gx-ii-facelift-2-460-46-at-296-hp-4wd-premium-sport-2019-2021-gray-2022/</url>
+      <mark_id>Lexus</mark_id>
+      <folder_id>GX, II Рестайлинг 2</folder_id>
+      <year>2022</year>
+      <vin>JTJJM5FX305323288</vin>
+      <price>12500000</price>
+      <sale_price>12100000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>400000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Lexus GX, II Рестайлинг 2, Premium Sport (2019-2021), 460 4.6 AT (296 л.с.) 4WD, 2022 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJJM5FX305323288/0/full.webp?v=4872f571c986</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJJM5FX305323288/1/full.webp?v=f7be66890a08</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJJM5FX305323288/2/full.webp?v=fe489ffcb305</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJJM5FX305323288/3/full.webp?v=ffe9b24d18c3</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJJM5FX305323288/4/full.webp?v=12fee2338b2f</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJJM5FX305323288/5/full.webp?v=d3c4cc0578cb</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJJM5FX305323288/6/full.webp?v=5744ca72c6d0</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJJM5FX305323288/7/full.webp?v=4147b8706b31</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJJM5FX305323288/8/full.webp?v=3fafff38e4a6</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJJM5FX305323288/9/full.webp?v=0163ac446fd4</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJJM5FX305323288/10/full.webp?v=88d54ccfad28</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJJM5FX305323288/11/full.webp?v=612ecfdef806</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJJM5FX305323288/12/full.webp?v=c52bf8ca8ae6</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJJM5FX305323288/13/full.webp?v=b2bfebadac45</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJJM5FX305323288/14/full.webp?v=aa5485cda944</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJJM5FX305323288/15/full.webp?v=246d48abbc18</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJJM5FX305323288/16/full.webp?v=67a89635021d</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJJM5FX305323288/17/full.webp?v=4a805f48eacb</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJJM5FX305323288/18/full.webp?v=96a392ef9bca</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJJM5FX305323288/19/full.webp?v=49e94cf775a0</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJJM5FX305323288/20/full.webp?v=f6f78a4cb52c</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJJM5FX305323288/21/full.webp?v=f5b667d44078</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LFMJBFBF4T3004149</unique_id>
+      <url>https://cars.toyotaorenburg.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2026/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>RAV4, VI (XA60)</folder_id>
+      <year>2026</year>
+      <vin>LFMJBFBF4T3004149</vin>
+      <price>4650000</price>
+      <sale_price>4350000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>300000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/0/full.webp?v=5106de3817dc</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/1/full.webp?v=b48288126495</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/2/full.webp?v=b43731c6171f</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/3/full.webp?v=81c5b37fcae7</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/4/full.webp?v=de1d4ddf643a</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/5/full.webp?v=722b97a2670a</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/6/full.webp?v=ab2f7633704f</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/7/full.webp?v=38e5590a9c2f</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/8/full.webp?v=fbd30aad5984</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/9/full.webp?v=22aa76910c46</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/10/full.webp?v=eb59ba6b817a</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/11/full.webp?v=075f4106ac40</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/12/full.webp?v=940629c09f6d</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/13/full.webp?v=b4b364b47d9a</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/14/full.webp?v=ed38d427ac26</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/15/full.webp?v=81b6ba66cca4</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/16/full.webp?v=76f324d9bd14</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/17/full.webp?v=88925e1667a9</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/18/full.webp?v=91e2706909bd</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/19/full.webp?v=eda3a94d2206</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/20/full.webp?v=ff22686a822d</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LVGEU76A0TG056600</unique_id>
+      <url>https://cars.toyotaorenburg.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-premium-wind-chill-pearl-2026/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>Highlander, IV (XU70)</folder_id>
+      <year>2026</year>
+      <vin>LVGEU76A0TG056600</vin>
+      <price>5750000</price>
+      <sale_price>5450000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>300000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota Highlander, IV (XU70), Premium, 2.0 AT (248 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/0/full.webp?v=89c6dbbbb917</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/1/full.webp?v=c0e733590992</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/2/full.webp?v=2491eb0f61c8</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/4/full.webp?v=f8c15c03a850</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/6/full.webp?v=eff35623f878</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/7/full.webp?v=c463f40ec056</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/8/full.webp?v=8518feb3c4e7</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/9/full.webp?v=49fc9b8fd800</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/10/full.webp?v=3073b553ad5a</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/11/full.webp?v=e181327964ee</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/12/full.webp?v=cfba1dc1e263</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/13/full.webp?v=ba288b06fe57</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/14/full.webp?v=c8a080d0f255</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/15/full.webp?v=19571f4cc89a</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/16/full.webp?v=ec5d09364035</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/17/full.webp?v=ae55c98f4973</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/18/full.webp?v=277be7bf959d</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/19/full.webp?v=fcd815ed02c9</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/20/full.webp?v=d6808c7f0005</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/21/full.webp?v=b08a02e6ecdb</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/22/full.webp?v=3810cbea164d</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/23/full.webp?v=962f09024e0f</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/24/full.webp?v=b19db095254c</image>
+      </images>
+    </car>
+  </cars>
+</data>
