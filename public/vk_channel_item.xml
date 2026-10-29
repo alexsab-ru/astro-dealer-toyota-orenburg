@@ -122,30 +122,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>JTJJM5FX305323288</id>
-    <link>https://cars.toyotaorenburg.ru/cars/lexus-gx-ii-facelift-2-460-46-at-296-hp-4wd-premium-sport-2019-2021-gray-2022/</link>
-    <brand>Lexus</brand>
-    <model>GX, II Рестайлинг 2</model>
-    <year>2022</year>
-    <title>Lexus GX, II Рестайлинг 2 Premium Sport (2019-2021) 2022</title>
-    <image_link>https://cdn.alexsab.ru/cars/cars.toyotaorenburg.ru/new/JTJJM5FX305323288/0/full.webp?v=4872f571c986</image_link>
-    <price>12500000 RUB</price>
-    <sale_price>12100000 RUB</sale_price>
-    <min_price>12100000 RUB</min_price>
-    <max_price>12500000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Lexus GX, II Рестайлинг 2, Premium Sport (2019-2021), 460 4.6 AT (296 л.с.) 4WD, 2022 г.</description>
-    <exterior_color>СЕРЫЙ</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>JTJJM5FX305323288</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>LFMJBFBF4T3004149</id>
     <link>https://cars.toyotaorenburg.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2026/</link>
     <brand>Toyota</brand>
