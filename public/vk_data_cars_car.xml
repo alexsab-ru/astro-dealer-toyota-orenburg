@@ -22,6 +22,8 @@
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/1/full.webp?v=fab3899b424d</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/2/full.webp?v=762307d85281</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/3/full.webp?v=f5be6f2b143e</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/4/full.webp?v=3bb96cbe62b5</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/5/full.webp?v=4e9130555bec</image>
       </images>
     </car>
     <car>
@@ -45,6 +47,8 @@
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ6TK056581/1/full.webp?v=901933d6c587</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ6TK056581/2/full.webp?v=3b05b8b9ee14</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ6TK056581/3/full.webp?v=4d6a055b6822</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ6TK056581/4/full.webp?v=11ba426fe6ef</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ6TK056581/5/full.webp?v=c735fbb6f57f</image>
       </images>
     </car>
     <car>
@@ -68,6 +72,8 @@
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/1/full.webp?v=f2551342e603</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/2/full.webp?v=5556fa8483bb</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/3/full.webp?v=5ba86234b957</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/4/full.webp?v=b5e137392cbe</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/5/full.webp?v=e958f53d6410</image>
       </images>
     </car>
     <car>
@@ -91,6 +97,8 @@
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/1/full.webp?v=eb53315dd610</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/2/full.webp?v=82d9a29ac664</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/3/full.webp?v=215d243382e5</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/4/full.webp?v=b34ea6635b4e</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/5/full.webp?v=2ba6249a4734</image>
       </images>
     </car>
     <car>
@@ -114,6 +122,8 @@
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/1/full.webp?v=ad1a4434127d</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/2/full.webp?v=b7c63b5fe2a5</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/3/full.webp?v=27bc94315dee</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/4/full.webp?v=0bb742e3a183</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/5/full.webp?v=ce60d4bedc4d</image>
       </images>
     </car>
     <car>
@@ -137,6 +147,29 @@
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/1/full.webp?v=b48288126495</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/2/full.webp?v=b43731c6171f</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/3/full.webp?v=81c5b37fcae7</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/4/full.webp?v=e077e3703da9</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/5/full.webp?v=a36770a68ba8</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LFMJBFBF9T3005698</unique_id>
+      <url>https://cars.toyotaorenburg.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-black-metallic-218-2026/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>RAV4, VI (XA60)</folder_id>
+      <year>2026</year>
+      <vin>LFMJBFBF9T3005698</vin>
+      <price>4650000</price>
+      <sale_price>4350000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>300000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF9T3005698/0/full.webp?v=dc1b053ba14b</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF9T3005698/1/full.webp?v=5573c2aa2998</image>
       </images>
     </car>
     <car>
@@ -160,6 +193,8 @@
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/1/full.webp?v=c0e733590992</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/2/full.webp?v=2491eb0f61c8</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/3/full.webp?v=f8c15c03a850</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/4/full.webp?v=241972a71938</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/5/full.webp?v=5a33fee9861f</image>
       </images>
     </car>
   </cars>
