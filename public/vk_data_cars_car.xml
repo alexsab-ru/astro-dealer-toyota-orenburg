@@ -9,10 +9,10 @@
       <year>2026</year>
       <vin>JTEARCAJ0SK051259</vin>
       <price>12490000</price>
-      <sale_price>12190000</sale_price>
+      <sale_price>11940000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>300000</max_benefit>
+      <max_benefit>550000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -26,6 +26,8 @@
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/5/full.webp?v=4e9130555bec</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/6/full.webp?v=fedee65fbf75</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/7/full.webp?v=b1dac221e22f</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/8/full.webp?v=1d0c16bc867d</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ0SK051259/9/full.webp?v=73c2f0b3df99</image>
       </images>
     </car>
     <car>
@@ -36,10 +38,10 @@
       <year>2026</year>
       <vin>JTEARCAJ6TK056581</vin>
       <price>12490000</price>
-      <sale_price>12190000</sale_price>
+      <sale_price>11940000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>300000</max_benefit>
+      <max_benefit>550000</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -53,6 +55,8 @@
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ6TK056581/5/full.webp?v=c735fbb6f57f</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ6TK056581/6/full.webp?v=3df44dbe2d9f</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ6TK056581/7/full.webp?v=5e42d302a0bf</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ6TK056581/8/full.webp?v=4f7b057f761f</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTEARCAJ6TK056581/9/full.webp?v=08aeaf2fa174</image>
       </images>
     </car>
     <car>
@@ -62,8 +66,8 @@
       <folder_id>RX, V</folder_id>
       <year>2026</year>
       <vin>JTJCPMJA2T2026564</vin>
-      <price>8450000</price>
-      <sale_price>7850000</sale_price>
+      <price>8390000</price>
+      <sale_price>7790000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
       <max_benefit>600000</max_benefit>
@@ -80,6 +84,8 @@
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/5/full.webp?v=e958f53d6410</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/6/full.webp?v=65a7ed4cb8e3</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/7/full.webp?v=fad49eb77f68</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/8/full.webp?v=719e6c120c84</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA2T2026564/9/full.webp?v=732cb59545e1</image>
       </images>
     </car>
     <car>
@@ -89,8 +95,8 @@
       <folder_id>RX, V</folder_id>
       <year>2026</year>
       <vin>JTJCPMJA6T2030178</vin>
-      <price>8450000</price>
-      <sale_price>7850000</sale_price>
+      <price>8390000</price>
+      <sale_price>7790000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
       <max_benefit>600000</max_benefit>
@@ -107,6 +113,8 @@
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/5/full.webp?v=2ba6249a4734</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/6/full.webp?v=93425ba90711</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/7/full.webp?v=3455ee5f8deb</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/8/full.webp?v=d0a3443442de</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA6T2030178/9/full.webp?v=8e33ca8cb9c3</image>
       </images>
     </car>
     <car>
@@ -116,8 +124,8 @@
       <folder_id>RX, V</folder_id>
       <year>2026</year>
       <vin>JTJCPMJA7T2026981</vin>
-      <price>8450000</price>
-      <sale_price>7850000</sale_price>
+      <price>8390000</price>
+      <sale_price>7790000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
       <max_benefit>600000</max_benefit>
@@ -134,6 +142,8 @@
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/5/full.webp?v=ce60d4bedc4d</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/6/full.webp?v=77e4c7857043</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/7/full.webp?v=6965386d9d4a</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/8/full.webp?v=ce2979d77ce2</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/JTJCPMJA7T2026981/9/full.webp?v=7e29db5a1568</image>
       </images>
     </car>
     <car>
@@ -143,11 +153,11 @@
       <folder_id>RAV4, VI (XA60)</folder_id>
       <year>2026</year>
       <vin>LFMJBFBF4T3004149</vin>
-      <price>4650000</price>
-      <sale_price>4350000</sale_price>
+      <price>4680000</price>
+      <sale_price>4310000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>300000</max_benefit>
+      <max_benefit>370000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -161,6 +171,8 @@
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/5/full.webp?v=a36770a68ba8</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/6/full.webp?v=478c0a054083</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/7/full.webp?v=d4d9aa0c589c</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/8/full.webp?v=afb80e3785d8</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF4T3004149/9/full.webp?v=9f6002846fde</image>
       </images>
     </car>
     <car>
@@ -170,11 +182,11 @@
       <folder_id>RAV4, VI (XA60)</folder_id>
       <year>2026</year>
       <vin>LFMJBFBF9T3005698</vin>
-      <price>4650000</price>
-      <sale_price>4350000</sale_price>
+      <price>4680000</price>
+      <sale_price>4310000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>300000</max_benefit>
+      <max_benefit>370000</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -184,6 +196,29 @@
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF9T3005698/1/full.webp?v=5573c2aa2998</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF9T3005698/2/full.webp?v=97fbfd8e8ec2</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF9T3005698/3/full.webp?v=1705f83f0fa3</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF9T3005698/4/full.webp?v=dca0b0d7d598</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBF9T3005698/5/full.webp?v=1145be2fb70a</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LFMJBFBFXT3010652</unique_id>
+      <url>https://cars.toyotaorenburg.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2026/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>RAV4, VI (XA60)</folder_id>
+      <year>2026</year>
+      <vin>LFMJBFBFXT3010652</vin>
+      <price>4680000</price>
+      <sale_price>4310000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>370000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBFXT3010652/0/full.webp?v=21a4d674c234</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LFMJBFBFXT3010652/1/full.webp?v=7a5b495c49dd</image>
       </images>
     </car>
     <car>
@@ -193,11 +228,11 @@
       <folder_id>Highlander, IV (XU70)</folder_id>
       <year>2026</year>
       <vin>LVGEU76A0TG056600</vin>
-      <price>5750000</price>
+      <price>5850000</price>
       <sale_price>5450000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>300000</max_benefit>
+      <max_benefit>400000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -211,6 +246,50 @@
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/5/full.webp?v=5a33fee9861f</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/6/full.webp?v=96d09a883463</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/7/full.webp?v=1ab87c78cf93</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/8/full.webp?v=d90c8fc57c32</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A0TG056600/9/full.webp?v=004d49c56804</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LVGEU76A1TG061904</unique_id>
+      <url>https://cars.toyotaorenburg.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-premium-midnight-black-metallic-2026/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>Highlander, IV (XU70)</folder_id>
+      <year>2026</year>
+      <vin>LVGEU76A1TG061904</vin>
+      <price>5850000</price>
+      <sale_price>5450000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>400000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota Highlander, IV (XU70), Premium, 2.0 AT (248 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A1TG061904/0/full.webp?v=129b0481e843</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A1TG061904/1/full.webp?v=610a5d14cbf7</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LVGEU76A5TG061890</unique_id>
+      <url>https://cars.toyotaorenburg.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-premium-midnight-black-metallic-2026/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>Highlander, IV (XU70)</folder_id>
+      <year>2026</year>
+      <vin>LVGEU76A5TG061890</vin>
+      <price>5850000</price>
+      <sale_price>5450000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>400000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota Highlander, IV (XU70), Premium, 2.0 AT (248 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A5TG061890/0/full.webp?v=25971779ef94</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A5TG061890/1/full.webp?v=3be667d91ac4</image>
       </images>
     </car>
   </cars>
