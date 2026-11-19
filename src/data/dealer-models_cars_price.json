@@ -2,8 +2,8 @@
   {
     "brand": "Lexus",
     "model": "RX 350",
-    "price": 7790000,
-    "benefit": 600000
+    "price": 7690000,
+    "benefit": 700000
   },
   {
     "brand": "Toyota",
@@ -16,5 +16,11 @@
     "model": "Land Cruiser Prado",
     "price": 11940000,
     "benefit": 550000
+  },
+  {
+    "brand": "Toyota",
+    "model": "Wildlander",
+    "price": 4680000,
+    "benefit": 200000
   }
 ]
