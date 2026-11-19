@@ -362,6 +362,8 @@
       <images>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/0/full.webp?v=b6dcc73a4178</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/1/full.webp?v=3247330336aa</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/2/full.webp?v=8e5713895eca</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/3/full.webp?v=36ce81e09988</image>
       </images>
     </car>
     <car>
@@ -416,6 +418,48 @@
       </images>
     </car>
     <car>
+      <unique_id>LVGEU76A2TG061345</unique_id>
+      <url>https://cars.toyotaorenburg.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-premium-wind-chill-pearl-2026/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>Highlander, IV (XU70)</folder_id>
+      <year>2026</year>
+      <vin>LVGEU76A2TG061345</vin>
+      <price>5850000</price>
+      <sale_price>5450000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>400000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota Highlander, IV (XU70), Premium, 2.0 AT (248 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A2TG061345/0/full.webp?v=67cdcd42e152</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A2TG061345/1/full.webp?v=0d7b3052e362</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LVGEU76A5TG061355</unique_id>
+      <url>https://cars.toyotaorenburg.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-premium-wind-chill-pearl-2026/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>Highlander, IV (XU70)</folder_id>
+      <year>2026</year>
+      <vin>LVGEU76A5TG061355</vin>
+      <price>5850000</price>
+      <sale_price>5450000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>400000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota Highlander, IV (XU70), Premium, 2.0 AT (248 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A2TG061345/0/full.webp?v=67cdcd42e152</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A2TG061345/1/full.webp?v=0d7b3052e362</image>
+      </images>
+    </car>
+    <car>
       <unique_id>LVGEU76A7TG061356</unique_id>
       <url>https://cars.toyotaorenburg.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-premium-wind-chill-pearl-2026/</url>
       <mark_id>Toyota</mark_id>
@@ -434,6 +478,8 @@
       <images>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A7TG061356/0/full.webp?v=413426f3dfc9</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A7TG061356/1/full.webp?v=ca8ccc9c3d39</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A7TG061356/2/full.webp?v=df81eb41abdf</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A7TG061356/3/full.webp?v=8c64300a9768</image>
       </images>
     </car>
   </cars>
