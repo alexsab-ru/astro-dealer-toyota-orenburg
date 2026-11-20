@@ -366,6 +366,8 @@
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/3/full.webp?v=36ce81e09988</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/4/full.webp?v=0e0f81f576fa</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/5/full.webp?v=474f1c5f3883</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/6/full.webp?v=f9417ea918a4</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/7/full.webp?v=2683cd52f5bf</image>
       </images>
     </car>
     <car>
@@ -440,29 +442,8 @@
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A2TG061345/1/full.webp?v=0d7b3052e362</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A2TG061345/2/full.webp?v=348808bc4a7b</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A2TG061345/3/full.webp?v=216a7f3ed855</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>LVGEU76A5TG061355</unique_id>
-      <url>https://cars.toyotaorenburg.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-premium-wind-chill-pearl-2026/</url>
-      <mark_id>Toyota</mark_id>
-      <folder_id>Highlander, IV (XU70)</folder_id>
-      <year>2026</year>
-      <vin>LVGEU76A5TG061355</vin>
-      <price>5850000</price>
-      <sale_price>5450000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>400000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Toyota Highlander, IV (XU70), Premium, 2.0 AT (248 л.с.) 4WD, 2026 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A2TG061345/0/full.webp?v=67cdcd42e152</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A2TG061345/1/full.webp?v=0d7b3052e362</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A2TG061345/2/full.webp?v=348808bc4a7b</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A2TG061345/3/full.webp?v=216a7f3ed855</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A2TG061345/4/full.webp?v=2feb29dd763a</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A2TG061345/5/full.webp?v=61b1f894153c</image>
       </images>
     </car>
     <car>
@@ -488,6 +469,8 @@
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A7TG061356/3/full.webp?v=8c64300a9768</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A7TG061356/4/full.webp?v=38f2066f8a7c</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A7TG061356/5/full.webp?v=71b3ba220f25</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A7TG061356/6/full.webp?v=46bee93da560</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEU76A7TG061356/7/full.webp?v=04c7061b8490</image>
       </images>
     </car>
   </cars>
