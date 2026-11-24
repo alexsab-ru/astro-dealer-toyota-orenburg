@@ -272,10 +272,10 @@
       <year>2026</year>
       <vin>LFMJBFBF4T3004149</vin>
       <price>4680000</price>
-      <sale_price>4310000</sale_price>
+      <sale_price>4480000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>370000</max_benefit>
+      <max_benefit>200000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -312,10 +312,10 @@
       <year>2026</year>
       <vin>LFMJBFBFXT3010652</vin>
       <price>4680000</price>
-      <sale_price>4310000</sale_price>
+      <sale_price>4480000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>370000</max_benefit>
+      <max_benefit>200000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -380,6 +380,8 @@
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/17/full.webp?v=83a336ee09a9</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/18/full.webp?v=0e0c0a707039</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/19/full.webp?v=2af88d107ff0</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/20/full.webp?v=ccec9b1c9305</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/21/full.webp?v=d34174ce4e1e</image>
       </images>
     </car>
     <car>
@@ -390,10 +392,10 @@
       <year>2026</year>
       <vin>LVGEU76A7TG061356</vin>
       <price>5850000</price>
-      <sale_price>5450000</sale_price>
+      <sale_price>5650000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>400000</max_benefit>
+      <max_benefit>200000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
