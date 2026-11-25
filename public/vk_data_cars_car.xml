@@ -8,11 +8,11 @@
       <folder_id>Land Cruiser Prado, 250 Series</folder_id>
       <year>2026</year>
       <vin>JTEARCAJ0SK051259</vin>
-      <price>12490000</price>
-      <sale_price>11940000</sale_price>
+      <price>12000000</price>
+      <sale_price>11800000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>550000</max_benefit>
+      <max_benefit>200000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -68,11 +68,11 @@
       <folder_id>Land Cruiser Prado, 250 Series</folder_id>
       <year>2026</year>
       <vin>JTEARCAJ6TK056581</vin>
-      <price>12490000</price>
-      <sale_price>11940000</sale_price>
+      <price>12000000</price>
+      <sale_price>11800000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>550000</max_benefit>
+      <max_benefit>200000</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -105,11 +105,11 @@
       <folder_id>RX, V</folder_id>
       <year>2026</year>
       <vin>JTJCPMJA2T2026564</vin>
-      <price>8390000</price>
+      <price>7990000</price>
       <sale_price>7790000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>600000</max_benefit>
+      <max_benefit>200000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -215,11 +215,11 @@
       <folder_id>RX, V</folder_id>
       <year>2026</year>
       <vin>JTJCPMJA7T2026981</vin>
-      <price>8390000</price>
+      <price>7990000</price>
       <sale_price>7790000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>600000</max_benefit>
+      <max_benefit>200000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -384,6 +384,8 @@
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/21/full.webp?v=d34174ce4e1e</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/22/full.webp?v=f28293434bd1</image>
         <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/23/full.webp?v=3ef15878187a</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/24/full.webp?v=6d6c839725aa</image>
+        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/25/full.webp?v=7b7a4eadee00</image>
       </images>
     </car>
     <car>
