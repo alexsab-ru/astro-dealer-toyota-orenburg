@@ -344,54 +344,6 @@
       </images>
     </car>
     <car>
-      <unique_id>LVGEA6GF1TG003238</unique_id>
-      <url>https://cars.toyotaorenburg.ru/cars/toyota-wildlander-ii-20-cvt-171-hp-4wd-pro-plus-white-2026/</url>
-      <mark_id>Toyota</mark_id>
-      <folder_id>Wildlander, II</folder_id>
-      <year>2026</year>
-      <vin>LVGEA6GF1TG003238</vin>
-      <price>4880000</price>
-      <sale_price>4680000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>200000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Toyota Wildlander, II, Pro+, 2.0 CVT (171 л.с.) 4WD, 2026 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/0/full.webp?v=b6dcc73a4178</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/1/full.webp?v=3247330336aa</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/2/full.webp?v=8e5713895eca</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/3/full.webp?v=36ce81e09988</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/4/full.webp?v=0e0f81f576fa</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/5/full.webp?v=474f1c5f3883</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/6/full.webp?v=f9417ea918a4</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/7/full.webp?v=2683cd52f5bf</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/8/full.webp?v=3568947d301d</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/9/full.webp?v=a1eae2e14fb3</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/10/full.webp?v=f921f9e64b22</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/11/full.webp?v=f84c67cd4778</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/12/full.webp?v=51a218e67d2b</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/13/full.webp?v=c3c7cca9a360</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/14/full.webp?v=14f80952668c</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/15/full.webp?v=5bdd90ea546d</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/16/full.webp?v=0d5acf2c0252</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/17/full.webp?v=83a336ee09a9</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/18/full.webp?v=0e0c0a707039</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/19/full.webp?v=2af88d107ff0</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/20/full.webp?v=ccec9b1c9305</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/21/full.webp?v=d34174ce4e1e</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/22/full.webp?v=f28293434bd1</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/23/full.webp?v=3ef15878187a</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/24/full.webp?v=6d6c839725aa</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/25/full.webp?v=7b7a4eadee00</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/26/full.webp?v=b68211e9369b</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/27/full.webp?v=818237511f3e</image>
-        <image>https://img.upspace.ru/cars/cars.toyotaorenburg.ru/new/LVGEA6GF1TG003238/28/full.webp?v=9b08deab611a</image>
-      </images>
-    </car>
-    <car>
       <unique_id>LVGEU76A7TG061356</unique_id>
       <url>https://cars.toyotaorenburg.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-premium-wind-chill-pearl-2026/</url>
       <mark_id>Toyota</mark_id>
